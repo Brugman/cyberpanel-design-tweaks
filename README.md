@@ -1,5 +1,7 @@
 # CyberPanel Design Tweaks
 
+> Tweak the look of CyberPanel to your liking by adding CSS snippets to your custom CSS on the Design page.
+
 ## Tweaks
 
 ### Remove page loader
